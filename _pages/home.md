@@ -1,1 +1,6 @@
-*This is my **HOME** page*
+---
+layout: single
+permalink: /
+title: "Home"
+
+---
