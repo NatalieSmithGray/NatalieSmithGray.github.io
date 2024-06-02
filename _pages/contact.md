@@ -1,7 +1,14 @@
 ---
-title: "Privacy Policy"
+layout: single
+classes: #wide
 permalink: /contact/
-layout: archive
+title: "Case Studies"
+toc: true
+toc_sticky: false
+author_profile: false
+redirect_from:
+  - /contact.md/
+  - /contact.html
 ---
 
 Last updated: January 14, 2024
