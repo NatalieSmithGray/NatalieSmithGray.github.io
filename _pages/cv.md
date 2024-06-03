@@ -7,9 +7,9 @@ title: "Curriculum Vitae"
 
 [//]: # (-------------------------)
 
-Email: nathan.gray@wsu.edu
+Email: natalie.smith-gray@wallawalla.edu
 
-GitHub: [github.com/nathantgray]()
+GitHub: [github.com/NatalieSmithGray]()
 
 # Research Interest
 
