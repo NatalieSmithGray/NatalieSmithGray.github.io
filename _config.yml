@@ -112,8 +112,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : /images/Fluffy.HEIC # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Natalie Smith-Gray"
+  avatar           : /images/Fluffy.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
