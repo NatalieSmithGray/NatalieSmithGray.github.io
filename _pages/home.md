@@ -1,4 +1,10 @@
 ---
+layout: single
+permalink: /
+title: "Home"
+
+---
+<!-- ---
 layout: splash
 title: "Home"
 permalink: /
@@ -147,4 +153,4 @@ datascience:
 
 {% include feature_row id="fr_sql_2" %}
 
-{% include feature_row id="datascience" type="center" %}
+{% include feature_row id="datascience" type="center" %} -->
