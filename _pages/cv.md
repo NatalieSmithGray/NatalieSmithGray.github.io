@@ -125,3 +125,18 @@ Elementary Teacher / Pilot / Translator / Medical Assistant
 
 <sup>\*</sup>Presenting author
 <br/>
+
+# Invited Presentations
+
+-------------------------
+[1] N. Smith-Gray, “Graduate School”, Walla Walla University, WA, February 8, 2022. 
+
+[1] N. Smith-Gray, “Graduate School”, Walla Walla University, WA, February 9, 2021. 
+
+N. Smith-Gray, “Graduate School”, Walla Walla University, WA, February 11, 2020. 
+
+N. Smith-Gray, “Graduate School”, Walla Walla University, WA, February 12, 2019. 
+
+N. Smith-Gray, “How to Survive Engineering”, College Place, WA, November 8, 2018. 
+
+N. Smith-Gray, E. Hopps, and J. Perez, “Thermoelectric Wrist Cuff”, Symposium at Walla Walla University, College Place, WA, April 12, 2018. 
