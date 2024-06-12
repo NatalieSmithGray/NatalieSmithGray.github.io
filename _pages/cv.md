@@ -69,6 +69,18 @@ Technical Publications Intern
 
 <br/>
 
+# Teaching Experience
+
+-------------------------
+
+* Professor of Engineering and Computer Science, Walla Walla University (Fall 2022 – Present) 
+* Guest lecturer for the Glass Science and Technology course, Washington State University (Spring 2022) 
+* Teaching Assistant (Material Science Engineering), Electronic Materials at Washington State University (Fall 2021) 
+* Teaching Assistant (Material Science Engineering), Ceramic Materials at Washington State University (Spring 2021) 
+* Guest lecturer for Circuits course, Walla Walla University (Spring 2018) 
+
+<br/>
+
 # Volunteer Experience
 
 -------------------------
@@ -105,6 +117,17 @@ Elementary Teacher / Pilot / Translator / Medical Assistant
 - Assisted in medical prodecures and surgeries
 - Flew missionaries into the jungle and translated for them
 
+<br/>
+
+# Awards and Honors
+
+-------------------------
+* Outstanding TA award for the Mechanical and Materials Engineering department for the academic year 2021 – 2022. 
+* Roy G. Post Scholarship recipient, 2021 
+* Graduated with honors at Walla Walla University, 2018 
+
+<br/>
+
 # Publications
 
 -------------------------
@@ -124,6 +147,7 @@ Elementary Teacher / Pilot / Translator / Medical Assistant
 [7] **Smith-Gray, N. J.**, Sargin, I., Beckman, S., & McCloy, J. (2021). Machine learning to predict refractory corrosion during nuclear waste vitrification. MRS Advances, 6(4-5), 131–137. [https://doi.org/10.1557/s43580-021-00031-2](https://doi.org/10.1557/s43580-021-00031-2)  
 
 <sup>\*</sup>Presenting author
+
 <br/>
 
 # Invited Presentations
@@ -131,13 +155,40 @@ Elementary Teacher / Pilot / Translator / Medical Assistant
 -------------------------
 [1] N. Smith-Gray, “Graduate School”, Walla Walla University, WA, February 8, 2022. 
 
-[1] N. Smith-Gray, “Graduate School”, Walla Walla University, WA, February 9, 2021. 
+[2] N. Smith-Gray, “Graduate School”, Walla Walla University, WA, February 9, 2021. 
 
-[1] N. Smith-Gray, “Graduate School”, Walla Walla University, WA, February 11, 2020. 
+[3] N. Smith-Gray, “Graduate School”, Walla Walla University, WA, February 11, 2020. 
 
-[1] N. Smith-Gray, “Graduate School”, Walla Walla University, WA, February 12, 2019. 
+[4] N. Smith-Gray, “Graduate School”, Walla Walla University, WA, February 12, 2019. 
 
-[1] N. Smith-Gray, “How to Survive Engineering”, College Place, WA, November 8, 2018. 
+[5] N. Smith-Gray, “How to Survive Engineering”, College Place, WA, November 8, 2018. 
 
-[1] N. Smith-Gray, E. Hopps, and J. Perez, “Thermoelectric Wrist Cuff”, Symposium at Walla Walla University, College Place, WA, April 12, 2018. 
+[6] N. Smith-Gray, E. Hopps, and J. Perez, “Thermoelectric Wrist Cuff”, Symposium at Walla Walla University, College Place, WA, April 12, 2018. 
 
+<br/>
+
+# Oral Presentations
+
+-------------------------
+[1] Natalie J. Smith-Gray, et al., “Understanding the Effects of Various Anions on Sulfate Retention and Solubility within Simulated Low-Activity Waste Glass,” International Conference of Glass, Berlin Germany, July 5th 2022. 
+
+[2] Natalie J. Smith-Gray, et al., “Understanding the Effects of Various Anions on Sulfate Retention and Solubility within Simulated Low-Activity Waste Glass,” Glass and Optical Materials Division, Baltimore, MD, May 23nd 2022.  
+
+[3] Natalie J. Smith-Gray, Nicholas Stone-Weiss, Jessica Erickson, John Bussey, John McCloy, “The effects of Cr and Al on S solubility within simulated low-active waste glass,” Pacific Rim Conference on Ceramic and Glass Technology, December 2021 
+
+[4] Natalie J. Smith-Gray, Irmak Sargin, Scott Beckman, John S. McCloy, “Utilizing machine learning in nuclear waste management,” Material Research Society (MRS), virtual conference, December 2020 
+
+[5] Natalie J. Smith-Gray, Irmak Sargin, Scott Beckman, John S. McCloy, “Utilizing machine learning in nuclear waste management,” ACERS 56th annual St. Louis Section/Refractory Ceramics Division Symposium on Refractories, March 24th 2021 
+
+<br/>
+
+# Poster Presentations
+
+-------------------------
+[1] Natalie J. Smith-Gray, John McCloy, “Analysis of Monofrax® K-3 Refractory Corrosion within a Research Scaled Melter,” The Unified International Technical Conference on Refractories, Chicago, IL, March 16th 2022. 
+
+[2] Natalie J. Smith-Gray, Jonathan Evarts, Sam Karcher, Jessica Erickson, John Bussey, Nicholas Stone-Weiss, John McCloy, “Effects of Cr and Al on S Solubility within Simulated Low-Active Waste Glass,” Waste Management (WM2022), Phoenix, AZ, March 9th 2022. 
+
+[3] Natalie J. Smith-Gray, Jason Lonergan, John S. McCloy, “Effects of chromium and vanadium on the sulfate solubility of sodium aluminoborosilicate glass,” Material Research Society (MRS), virtual conference, December 2020 
+
+[4] Natalie J. Smith-Gray, Jason Lonergan, John S. McCloy, “Effects of chromium and vanadium on the sulfate solubility of sodium aluminoborosilicate glass,” Waste Management (WM2021), virtual conference, March 9th 2021 
